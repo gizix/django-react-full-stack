@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "django-react"
+version = "0.1.0"
+description = ""
+authors = ["Ewvyx <nix.anson@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
